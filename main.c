@@ -1,3 +1,7 @@
+/*
+Predict the Output
+Max Gombos
+*/
 #include <stdio.h>
 
 int main(void) {
